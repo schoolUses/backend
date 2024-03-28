@@ -1,0 +1,14 @@
+{
+    "board_id" : 0,
+    "board" : {
+      "comment_id" : 0,
+      "user_id_comment" : 0,
+      "comment" : "no comment"
+    },
+    "user_id" : 0,
+    "tag" : ["test"],
+    "description" : "no comment",
+    "like" : 0,
+    "dislike" : 0,
+    "date" : "0000-00-00"
+}
